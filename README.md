@@ -1,68 +1,86 @@
-# Cedric Hirwa Cyuzuzo
+# Rukundo Jean De Dieu
 
-**Full-stack Developer** focused on Laravel, PHP, Django, React DOM, JavaScript, APIs, and production-ready applications.
+**A-Level Graduate | Aspiring Web Developer | BIT Enthusiast**
 
-[![GitHub](https://img.shields.io/badge/GitHub-hirwacedric123-181717?logo=github)](https://github.com/hirwacedric123)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cedric%20Hirwa%20Cyuzuzo-0A66C2?logo=linkedin)](https://www.linkedin.com/in/hirwa-cyuzuzo-cedric-a0733a261)
-[![X](https://img.shields.io/badge/X-%40Quadrant__c-000000?logo=x)](https://x.com/Quadrant_c)
+Building the future of Rwanda, one line of code at a time.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rukundojeandedieu67-181717?logo=github)](https://github.com/Rukundojeandedieu67)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-2EA44F)](https://portifolio.infinityfree.me/?i=1)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?logo=gmail&logoColor=white)](mailto:rukundojeandedieu67@gmail.com)
 
 ## About Me
 
-I build reliable backend systems and practical AI/ML solutions that move beyond notebooks and reach production. I value clear requirements, straightforward architecture, useful tests, meaningful logging, and database migrations that teams can maintain with confidence.
+I am a motivated A-Level graduate from Rwanda with a strong academic background in Mathematics, Geography, and Economics. I am pursuing a Bachelor of Information Technology and building practical, user-friendly solutions for real problems in my community and beyond.
 
-- Based in Kigali, Rwanda
-- Open to opportunities
-- Interested in full-stack development, API design, Laravel, PHP, Django, PostgreSQL, queues, and practical AI/ML
+- Based in Huye, Rwanda
+- Open to internships, freelance work, scholarships, and collaboration
+- Passionate about web development, data science, and digital innovation
 
-## What I Work On
+## Education
 
-- Backend services with REST and GraphQL APIs
-- Authentication, authorization, caching, and background queues
-- Laravel, PHP, Django, and FastAPI applications
-- Practical machine learning integrations
-- Performance improvements for user-facing systems
-- React DOM and JavaScript frontends when a project needs a focused client
+- **Bachelor of Information Technology (BIT)** - University, Rwanda, 2023 - Present
+- **A-Level Certificate (MEG)** - Es Marie Adelaide-Gihara Secondary School, Rwanda, 2019 - 2022
+- **Self-directed learning** through freeCodeCamp, Coursera, MDN, YouTube, DTP, and WorldQuant University
 
-## Technical Stack
+## Career Goals
 
-### Languages and Frameworks
+- **Full-Stack Developer:** Master PHP, React, and Node.js to build complete, scalable web applications.
+- **Data Scientist:** Apply Python and machine learning to derive insights from complex datasets.
+- **Tech Entrepreneur:** Build technology solutions for real challenges in Rwanda and Africa.
+- **Global Contributor:** Contribute to open source and collaborate with international teams.
+
+## Technical Skills
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+
+### Backend and Data
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![React DOM](https://img.shields.io/badge/React%20DOM-20232A?logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-### Data, Infrastructure, and Tools
+### Tools and Business Skills
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
-## Selected Projects
+- Data analysis
+- Project management
+- Digital marketing
 
-- [Anon E-commerce](https://github.com/hirwacedric123/anon-e-commerce) - Responsive shop interface with catalog, cart, search, filters, checkout demo, and dark mode.
-- [Full-stack Django E-commerce Website](https://github.com/hirwacedric123/Full-stack-django-ecommerce-website-1) - Django-based e-commerce project.
-- [Full-stack Django E-commerce Website 2](https://github.com/hirwacedric123/Fullstack-Django-Ecommerce-website-2) - Python and Django e-commerce project.
-- [Django Store Manager](https://github.com/hirwacedric123/DJANGO-STORE-MANAGER) - Store management application built with Django.
-- [RealEstate](https://github.com/hirwacedric123/RealEstate) - Real-estate web project.
+## Featured Projects
 
-See all public work on [GitHub](https://github.com/hirwacedric123?tab=repositories).
+- [Infohub Rwanda](https://infohubrwanda.lovestoblog.com/?i=1) - A unified knowledge portal that aggregates updates, resources, and documentation into a searchable information experience. Built with PHP, MySQL, JavaScript, and CSS.
+- [BRidging the border Kigali](https://bbk-kigali.vercel.app/) - A Rwanda-rooted movement using sport, culture, and entertainment to rebuild trust between communities, migrants, and refugees. Built with Laravel and Next.js.
+- [Personal Portfolio Website](https://portifolio.infinityfree.me/) - Responsive portfolio platform with an admin dashboard, MySQL backend, file uploads, and full CRUD operations. Built with PHP and vanilla JavaScript.
+- [SSVP](https://ssvp.infinityfree.me/ssvp/login) - Application for the SSVP Huye conference, built with PHP, MySQL, JavaScript, and CSS.
+- [Dispopharm Rwanda](https://dispopharmrwanda.great-site.net/) - Platform supporting the safe disposal of unused medicines and environmental protection. Built with PHP, MySQL, Bootstrap, and JavaScript.
+
+## Certifications and Recognition
+
+- **Teaching Assistant Certificate** - School of Excellence, 2023
+- **Data Science Intermediate Certificate** - DTP, 2024
+- **Hackathon and Innovation Participation** - Rwanda Tech Hub, 2024
+- **Digital Skills Certificate** - Digital Rwanda Initiative, 2024
+
+## Soft Skills
+
+Teamwork, time management, attention to detail, problem solving, fast learning, and clear communication.
 
 ## Connect
 
 - Portfolio: [portifolio.infinityfree.me](https://portifolio.infinityfree.me/?i=1)
-- LinkedIn: [hirwa-cyuzuzo-cedric-a0733a261](https://www.linkedin.com/in/hirwa-cyuzuzo-cedric-a0733a261)
-- X: [@Quadrant_c](https://x.com/Quadrant_c)
-- Instagram: [@hirwacedric_123](https://www.instagram.com/hirwacedric_123/)
-- Facebook: [cedric.cyuzuzo.50](https://facebook.com/cedric.cyuzuzo.50/)
-- Email: [hirwacedr12@gmail.com](mailto:hirwacedr12@gmail.com)
+- GitHub: [Rukundojeandedieu67](https://github.com/Rukundojeandedieu67)
+- Email: [rukundojeandedieu67@gmail.com](mailto:rukundojeandedieu67@gmail.com)
+- Phone: [+250 792 392 072](tel:+250792392072)
+- Location: Huye, Rwanda
 
-> Good software is mostly empathy - plus a keyboard and a decent test suite.
+> Made in Rwanda with PHP and passion.
