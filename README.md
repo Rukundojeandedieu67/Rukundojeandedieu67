@@ -1,6 +1,6 @@
 # Rukundo Jean De Dieu
 
-**A-Level Graduate | Aspiring Web Developer | BIT Enthusiast**
+ Aspiring Web Developer | BIT Enthusiast 
 
 Building the future of Rwanda, one line of code at a time.
 
