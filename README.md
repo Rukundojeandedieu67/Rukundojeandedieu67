@@ -79,7 +79,7 @@ Teamwork, time management, attention to detail, problem solving, fast learning, 
 
 - Portfolio: [rukundojd.vercel.app](https://rukundojd.vercel.app/)
 - GitHub: [Rukundojeandedieu67](https://github.com/Rukundojeandedieu67)
-- Email: [rukundojeandedieu67.tech@gmail.com](mailto:rukundojeandedieu67@gmail.com)
+- Email: [rukundojeandedieu67@gmail.com](mailto:rukundojeandedieu67@gmail.com)
 - Phone: [+250 792 392 072](tel:+250792392072)
 - Location: Huye, Rwanda
 
