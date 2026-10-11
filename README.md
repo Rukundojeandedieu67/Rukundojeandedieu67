@@ -5,7 +5,7 @@
 Building the future of Rwanda, one line of code at a time.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rukundojeandedieu67-181717?logo=github)](https://github.com/Rukundojeandedieu67)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-2EA44F)](https://portifolio.infinityfree.me/?i=1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20website-2EA44F)](https://rukundojd.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?logo=gmail&logoColor=white)](mailto:rukundojeandedieu67@gmail.com)
 
 ## About Me
@@ -60,7 +60,7 @@ I am a motivated A-Level graduate from Rwanda with a strong academic background 
 
 - [Infohub Rwanda](https://infohubrwanda.lovestoblog.com/?i=1) - A unified knowledge portal that aggregates updates, resources, and documentation into a searchable information experience. Built with PHP, MySQL, JavaScript, and CSS.
 - [BRidging the border Kigali](https://bbk-kigali.vercel.app/) - A Rwanda-rooted movement using sport, culture, and entertainment to rebuild trust between communities, migrants, and refugees. Built with Laravel and Next.js.
-- [Personal Portfolio Website](https://portifolio.infinityfree.me/) - Responsive portfolio platform with an admin dashboard, MySQL backend, file uploads, and full CRUD operations. Built with PHP and vanilla JavaScript.
+- [Personal Portfolio Website](https://rukundojd.vercel.app/) - Responsive portfolio platform with an admin dashboard, MySQL backend, file uploads, and full CRUD operations. Built with PHP and vanilla JavaScript.
 - [SSVP](https://ssvp.infinityfree.me/ssvp/login) - Application for the SSVP Huye conference, built with PHP, MySQL, JavaScript, and CSS.
 - [Dispopharm Rwanda](https://dispopharmrwanda.great-site.net/) - Platform supporting the safe disposal of unused medicines and environmental protection. Built with PHP, MySQL, Bootstrap, and JavaScript.
 
@@ -77,7 +77,7 @@ Teamwork, time management, attention to detail, problem solving, fast learning, 
 
 ## Connect
 
-- Portfolio: [portifolio.infinityfree.me](https://portifolio.infinityfree.me/?i=1)
+- Portfolio: [portifolio.infinityfree.me](https://rukundojd.vercel.app/)
 - GitHub: [Rukundojeandedieu67](https://github.com/Rukundojeandedieu67)
 - Email: [rukundojeandedieu67@gmail.com](mailto:rukundojeandedieu67@gmail.com)
 - Phone: [+250 792 392 072](tel:+250792392072)
